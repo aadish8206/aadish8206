@@ -94,8 +94,8 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aadish8206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadish8206)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadish8206)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadish8206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadish-dighe-83039432b/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digheaadish@gmail.com)
 
 </div>
 
