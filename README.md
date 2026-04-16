@@ -5,7 +5,7 @@
 <img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1200&auto=format&fit=crop" width="100%" height="250" style="object-fit: cover; border-radius: 12px; margin-bottom: 20px;" alt="Developer Working"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Alumni+Management+Portals+%F0%9F%8E%93;AI+%26+Python+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Python+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
