@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -13,26 +12,19 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const aadish = {
-  username:    "aadish8206",
-  role:        "Full Stack Developer",
-  passions:    ["Agentic AI ", "AI Tools", "Open Source"],
-  currentWork: "Alumni Management Portal (SIH 2025)",
-  learning:    ["Agentic AI", "PHP", "Machine Learning"],
-  funFact:     "I build tools that solve real problems 🔧"
-};
-```
-
 <div align="center">
 
-- 🎓 Working on a **Centralized Alumni Management Platform** for SIH 25017
-- 🤖 Built an **Intelligent Excuse Generator** using Python AI
-- 🌱 Currently leveling up my **Full Stack** skills (MERN + PHP)
-- 💡 Love turning complex problems into elegant solutions
-- 🤝 Open to **collaborations** and exciting projects!
+Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things that matter. 🚀
 
 </div>
+
+- 👨‍💻 I work as a **Full Stack Developer**, crafting web apps from front to back
+- 🎓 Currently building a **Centralized Alumni Management Platform** for SIH 2025
+- 🤖 Created an **Intelligent Excuse Generator** powered by Python & AI
+- 🌱 Exploring the world of **Agentic AI**, **PHP**, and **Machine Learning**
+- 💡 I love turning complex, real-world problems into clean, elegant solutions
+- ⚡ Passionate about **AI Tools** and contributing to **Open Source**
+- 🤝 Always open to **collaborations** and exciting new projects!
 
 ---
 
