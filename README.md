@@ -1,7 +1,8 @@
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Aadish%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<!-- Header Image -->
+<img src="https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1200&auto=format&fit=crop" width="100%" height="250" style="object-fit: cover; border-radius: 12px; margin-bottom: 20px;" alt="Developer Working"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Alumni+Management+Portals+%F0%9F%8E%93;AI+%26+Python+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
@@ -63,7 +64,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadish8206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadish8206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF&count_private=true&hide_rank=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadish8206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&langs_count=8" height="180"/>
 
@@ -94,8 +95,8 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aadish8206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadish8206)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadish-dighe-83039432b/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digheaadish@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadish8206)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadish8206@gmail.com)
 
 </div>
 
