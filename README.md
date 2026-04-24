@@ -74,7 +74,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aadish8206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=FF6A00&text_color=FFFFFF&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadish8206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadish8206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&langs_count=8&hide=c" height="180"/>
 
 <br/>
 
@@ -120,7 +120,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 </div>
 
-
+---
 
 ## 🌱 Currently Working On
 
@@ -139,8 +139,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 [![GitHub](https://img.shields.io/badge/GitHub-aadish8206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadish8206)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadish8206)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digheaadishgmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digheaadish@gmail.com)
 
 </div>
 
