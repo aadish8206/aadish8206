@@ -72,7 +72,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadish8206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=FF6A00&text_color=FFFFFF&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aadish8206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=FF6A00&text_color=FFFFFF&count_private=true&hide_rank=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadish8206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&langs_count=8&hide=c" height="180"/>
 
