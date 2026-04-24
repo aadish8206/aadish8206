@@ -120,15 +120,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 </div>
 
-<div align="center">
 
-| 🏆 Trophies |
-|:---:|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=aadish8206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy) |
-
-</div>
-
----
 
 ## 🌱 Currently Working On
 
