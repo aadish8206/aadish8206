@@ -96,7 +96,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack | 📅 Status |
 |:---|:---|:---|:---|
-| [🎓 Alumni Management Portal](https://github.com/aadish8206/allumni-management-portal) | Centralized platform connecting alumni & institutions. Includes job board, events, mentorship & donations. Built for SIH 2025. | `React` `Node.js` `Express` `MongoDB` `PHP` `MySQL` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
+| [🎓 Alumni Management Portal](https://github.com/aadish8206/allumni-management-portal) | Centralized platform connecting alumni & institutions. Includes job board, events, mentorship & donations. Built for SIH 2025. | `React` `Node.js` `Express` `MongoDB` `PHP` `MySQL` | ![Complete](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
 | [🤖 Excuse Generator](https://github.com/aadish8206/excuse_generator) | AI-powered tool generating realistic excuses for work, school, or social contexts with voice output, proof & translations. | `Python` `AI/ML` `Jupyter Notebook` | ![Complete](https://img.shields.io/badge/Status-Complete-blue?style=flat-square) |
 
 ### 🤝 Collaborated / Forked Projects
