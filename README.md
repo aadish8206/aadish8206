@@ -19,6 +19,7 @@
 Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things that matter. 🚀
 
 - 👨‍💻 **Full Stack Developer** crafting web apps from front to back
+- 🏥 Developed **ArogyaLink** — AI-powered clinical triage, prescription OCR & ABDM decision-support
 - 🎓 Built a **Centralized Alumni Management Platform** for SIH 2025
 - 🌾 Created **GramConnect** — connecting farmers & daily wage workers in India
 - 🤖 Built an **Intelligent Excuse Generator** powered by Python & AI
@@ -47,7 +48,9 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -96,6 +99,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack | 📅 Status |
 |:---|:---|:---|:---|
+| [🏥 ArogyaLink](https://github.com/aadish8206/ArogyaSetu) | AI-powered multimodal clinical triage, prescription OCR digitizer & ABDM decision-support ecosystem with doctor OPD workspace and multilingual voice kiosk. | `FastAPI` `React` `TailwindCSS` `Python` `Gemini Vision` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
 | [🎓 Alumni Management Portal](https://github.com/aadish8206/allumni-management-portal) | Centralized platform connecting alumni & institutions. Includes job board, events, mentorship & donations. Built for SIH 2025. | `React` `Node.js` `Express` `MongoDB` `PHP` `MySQL` | ![Complete](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
 | [🤖 Excuse Generator](https://github.com/aadish8206/excuse_generator) | AI-powered tool generating realistic excuses for work, school, or social contexts with voice output, proof & translations. | `Python` `AI/ML` `Jupyter Notebook` | ![Complete](https://img.shields.io/badge/Status-Complete-blue?style=flat-square) |
 
@@ -125,6 +129,7 @@ Hi! I'm **Aadish**, a passionate Full Stack Developer who loves building things 
 ## 🌱 Currently Working On
 
 ```text
+🏥  ArogyaLink                  ████████████████░░░░  80% — ABDM integration & Voice Kiosk
 🔨  Alumni Management Portal    ████████████░░░░░░░░  60% — Adding mentorship & events
 🌾  GramConnect Multilingual    ████████░░░░░░░░░░░░  40% — Enhancing multilingual support
 🤖  AI/ML Projects              ██████░░░░░░░░░░░░░░  30% — Exploring Agentic AI
